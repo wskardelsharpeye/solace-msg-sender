@@ -1,0 +1,92 @@
+[
+  {
+    "underlying": "MSFT",
+    "strikeDate": "2023-06-30",
+    "issueDate": "2022-12-15",
+    "solvingFor": "implied volatility"
+  },
+  {
+    "underlying": "TSLA",
+    "strikeDate": "2023-05-20",
+    "issueDate": "2022-10-01",
+    "solvingFor": "delta"
+  },
+  {
+    "underlying": "NFLX",
+    "strikeDate": "2023-08-31",
+    "issueDate": "2022-12-01",
+    "solvingFor": "gamma"
+  },
+  {
+    "underlying": "GOOGL",
+    "strikeDate": "2023-07-15",
+    "issueDate": "2022-11-01",
+    "solvingFor": "vega"
+  },
+  {
+    "underlying": "AMZN",
+    "strikeDate": "2023-04-01",
+    "issueDate": "2022-10-15",
+    "solvingFor": "theta"
+  },
+  {
+    "underlying": "FB",
+    "strikeDate": "2023-09-15",
+    "issueDate": "2023-01-01",
+    "solvingFor": "rho"
+  },
+  {
+    "underlying": "AAPL",
+    "strikeDate": "2023-06-01",
+    "issueDate": "2022-12-15",
+    "solvingFor": "implied volatility"
+  },
+  {
+    "underlying": "NFLX",
+    "strikeDate": "2023-05-31",
+    "issueDate": "2022-10-15",
+    "solvingFor": "delta"
+  },
+  {
+    "underlying": "AMZN",
+    "strikeDate": "2023-07-15",
+    "issueDate": "2022-11-01",
+    "solvingFor": "gamma"
+  },
+  {
+    "underlying": "MSFT",
+    "strikeDate": "2023-09-30",
+    "issueDate": "2023-01-01",
+    "solvingFor": "vega"
+  },
+  {
+    "underlying": "AAPL",
+    "strikeDate": "2023-08-15",
+    "issueDate": "2022-12-01",
+    "solvingFor": "theta"
+  },
+  {
+    "underlying": "TSLA",
+    "strikeDate": "2023-04-30",
+    "issueDate": "2022-11-01",
+    "solvingFor": "rho"
+  },
+  {
+    "underlying": "GOOGL",
+    "strikeDate": "2023-05-15",
+    "issueDate": "2022-12-01",
+    "solvingFor": "implied volatility"
+  },
+  {
+    "underlying": "AMZN",
+    "strikeDate": "2023-06-15",
+    "issueDate": "2022-11-15",
+    "solvingFor": "delta"
+  },
+  {
+    "underlying": "FB",
+    "strikeDate": "2023-07-01",
+    "issueDate": "2022-12",
+    "solvingFor": "delta"
+  }
+]
