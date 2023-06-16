@@ -17,3 +17,7 @@ curl http://192.168.3.73:8080/SEMP/v2/config/msgVpns/default/queues/testQ2/subsc
 show queues in vpn default:
 http://192.168.3.73:8080/SEMP/v2/config/msgVpns/default/queues
 
+show messages in a queue:
+fetch message from queue:
+http://192.168.3.73:8080/SEMP/v2/monitor/msgVpns/default/queues/queue20230616/msgs
+
