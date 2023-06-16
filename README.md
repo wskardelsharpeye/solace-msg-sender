@@ -1,4 +1,7 @@
 # solace-msg-sender
+ssh to solace CLI :
+ssh admin@192.168.3.73 -p 2222
+
 ULR of Soalce Management Dashboard:
 http://192.168.3.73:8080/#/login
 
