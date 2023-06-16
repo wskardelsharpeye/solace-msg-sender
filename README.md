@@ -1,4 +1,7 @@
 # solace-msg-sender
+Reference of solace SEMP:
+http://192.168.3.73:8080/SEMP/v2/config/help/#/
+
 create queue testQ2 in vpn default with admin:admin
 curl http://192.168.3.73:8080/SEMP/v2/config/msgVpns/default/queues -X POST -u admin:admin -H "Content-Type: application/json" -d '{"queueName":"testQ2","accessType":"exclusive","maxMsgSpoolUsage":200,"permission":"consume","ingressEnabled":true,"egressEnabled":true}'
 
