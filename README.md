@@ -1,4 +1,7 @@
 # solace-msg-sender
+ULR of Soalce Management Dashboard:
+http://192.168.3.73:8080/#/login
+
 Reference of solace SEMP:
 http://192.168.3.73:8080/SEMP/v2/config/help/#/
 
